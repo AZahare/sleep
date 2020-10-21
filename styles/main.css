@@ -1,0 +1,55 @@
+body {background-color:#ccccff;}
+
+h1 {color:#00004d;
+text-align: center;
+font-family: 'Bookman Old Style';
+font-size: 34px;}
+
+h2 {color: #fbfbff;
+background-color: #00004d;
+text-align: center;
+font-family: 'Bookman Old Style';
+font-size: 25px;}
+
+p {color: #000033;
+font-family: 'Bookman Old Style';
+font-size: 20px;}
+
+ul {color: #000033;
+font-family: 'Bookman Old Style';
+font-size: 20px;}
+
+ol {color: #000033;
+font-family: 'Bookman Old Style';
+font-size: 20px;}
+
+.pictures {
+    max-width: 500px;
+    height: auto;
+    border: 3px solid #00004d;
+    border-radius: 3%;
+}
+
+.books {
+    max-width: 200px;
+    height: 280px;
+    border: 2px solid #00004d;
+    border-radius: 2%;
+}
+
+.img-container {
+    text-align: center;
+}
+.whitish {
+    color: #fbfbff;
+}
+
+.main_header {
+    background-color: #00004d;
+}
+
+.main_footer {
+    background-color: #00004d;
+    font-size: 10px;
+    text-align: center;
+}
